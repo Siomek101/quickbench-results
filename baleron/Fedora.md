@@ -24,3 +24,9 @@
 - Latency: 4.23193e-06 ns
 
 # FINAL SCORE: 35.2525
+
+# Stress test:
+RESULTS
+
+Current score: 18191.2
+Stress test duration: 600 seconds
