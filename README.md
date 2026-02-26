@@ -15,4 +15,4 @@ My rules:
 > More soon!
 
 - [Fedora Linux 43 (Server Edition)](/baleron/Fedora.md): Benchmark: 35.2525, Stress (10 minutes): 18191.2
-- [Alpine Linux v3.23](/baleron/Alpine.md): Benchmark: 38.6848, Stress (10 minutes): 17077.3
+- [Alpine Linux v3.23](/baleron/Alpine.md): Benchmark: 42.8105, Stress (10 minutes): 17342.4
