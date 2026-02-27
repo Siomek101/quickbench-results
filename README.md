@@ -20,4 +20,5 @@ My rules:
 
 - [Alpine Linux v3.23](/baleron/Alpine.md): Benchmark: 42.8105, Stress Test: 17342.4
 - [Fedora Linux 43 (Server Edition)](/baleron/Fedora.md): Benchmark: 35.2525, Stress Test: 18191.2
-- [CachyOS](/baleron/CachyOS.md): Benchmark: 34.6186, Stress Test: 14010.3
+- [CachyOS (CachyOS kernel)](/baleron/CachyOS.md): Benchmark: 34.6186, Stress Test: 14010.3
+- [CachyOS (Arch kernel)](/baleron/CachyOS-AK.md): Benchmark: 33.7773, Stress Test: 14729.1
